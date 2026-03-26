@@ -98,17 +98,18 @@ Health Check:
 http://localhost:3001/api/health
 
 🔍 Features
-Wait Statistics
-Aggregated wait types
-Categorization:
-CPU
-IO
-Memory
-Other
-Active Requests
-Session-level visibility
-Blocking detection
-Current executing SQL
+
+- Wait Statistics
+- Aggregated wait types
+- Categorization:
+- CPU
+- IO
+- Memory
+- Other
+- Active Requests
+- Session-level visibility
+- Blocking detection
+- Current executing SQL
 
 🧠 How It Works
 
